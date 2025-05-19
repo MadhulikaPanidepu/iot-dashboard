@@ -3,3 +3,18 @@
     gap: 16px;
     flex-wrap: wrap;
   }
+  .weather-widget {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #e3f2fd;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 6px 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
